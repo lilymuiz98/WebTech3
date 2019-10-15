@@ -1,0 +1,30 @@
+{
+  front-family: ariel;
+}
+{
+  color : blue;
+  background-color: #0757A0;
+  border : 1px solid black;
+}
+h1{
+  color : #E6E6FA;
+  background-color: #191970;
+  font-family; Times New Roman;
+  border : 3px solid red;
+}
+
+h2{
+  border: 3px dashed blue;
+}
+p{
+  color : red;
+}
+
+.classforcontact{
+  color: #291970;
+  font-family; Times New Roman;
+  border : 3px solid blue;
+}
+p{
+  
+}
